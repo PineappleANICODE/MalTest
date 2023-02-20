@@ -1,3 +1,7 @@
+[AutoRun]
+shellexecute="https://pineappleanicode.github.io/Scrolling-page-useful-link/"
+
+
 Option Explicit
 
 Dim WSHShell
