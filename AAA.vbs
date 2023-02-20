@@ -12,6 +12,6 @@ Next
 
 
 Dim a
-a=msgbox("Have a good day, fellow GFG reader!", 0, "Making a VBScript program")
+a=msgbox("You should really be more tech savvy. This is a virus.", 0, "U idiot")
 
 
