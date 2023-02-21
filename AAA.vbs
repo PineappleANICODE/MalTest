@@ -14,4 +14,5 @@ Next
 Dim a
 a=msgbox("You should really be more tech savvy. This is a virus.", 0, "U idiot")
 
+MsgBox "Hello, World!", vbSystemModal
 
